@@ -1,7 +1,7 @@
-import React, from 'react';
+import React from 'react';
 
 const App = () => {
-  retur(<div>Hello</div>)
+  return(<div>Hello</div>)
 };
 
 export default App;
