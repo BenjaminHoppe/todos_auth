@@ -1,4 +1,4 @@
-const Theme = {
+const theme = {
   colors: {
     main: '#003459',
     mainDark: '#00171F',
@@ -15,9 +15,8 @@ const Theme = {
     medium: `only screen and (max-width: 56em)`,
     large: `only screen and (max-width: 80em)`,
     largest: `only screen and (max-width: 90em)`,
-  }
+  },
 
+};
 
-
-
-}
+export default theme;
