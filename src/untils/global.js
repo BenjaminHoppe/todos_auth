@@ -32,7 +32,16 @@ html {
 }
 
 body {
-  
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+a, input, textarea, button {
+  outline: none;
+  font-family: inherit;
+  text-decoration: none;
+
 }
 
 
